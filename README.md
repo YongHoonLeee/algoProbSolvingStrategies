@@ -1,0 +1,2 @@
+# algoProbSolvingStrategies
+algorithmic
